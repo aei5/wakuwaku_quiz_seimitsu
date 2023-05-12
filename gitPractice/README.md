@@ -25,5 +25,5 @@ git branch -m <old branch name> <new branch name>
 
 
 ## 参考文献
-[ローカルブランチに特定のリモートブランチをpull](https://qiita.com/hinatades/items/d47dec72a87c5fed50f7)
+[ローカルブランチに特定のリモートブランチをpull](https://qiita.com/hinatades/items/d47dec72a87c5fed50f7)<br>
 [ブランチの名前を変更する](https://docs.github.com/ja/repositories/configuring-branches-and-merges-in-your-repository/managing-branches-in-your-repository/renaming-a-branch)
