@@ -23,6 +23,16 @@ branchの名前の変更
 git branch -m <old branch name> <new branch name>
 ```
 
+gitのコミット履歴を調べる
+```
+git reflog
+```
+-> `<commit id> HEAD@{num}`
+
+戻り方
+```
+git reset HEAD@{num}
+```
 
 ## 参考文献
 [ローカルブランチに特定のリモートブランチをpull](https://qiita.com/hinatades/items/d47dec72a87c5fed50f7)
