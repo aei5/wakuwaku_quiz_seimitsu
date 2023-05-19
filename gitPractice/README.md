@@ -3,6 +3,20 @@
 これは`Git`についての学習を行うためのリポジトリです．
 
 
+
+## Setting
+グローバルに自分のユーザネームとメールアドレスを登録しておく．
+登録の仕方
+```
+# user.name
+git config --global user.name "User Name"
+
+# user.email
+git config --global user.email "User Email Address"
+```
+
+
+## Branch
 ローカルのブランチを表示する
 ```
 git branch
